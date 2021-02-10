@@ -1,0 +1,9 @@
+---
+title: "Hello!"
+---
+
+#### Welcome to my basic website.
+
+Isn't it great?
+
+It contains **bolding**, *italics*, and [links](https://google.com) using basic RMarkdown formatting. (For details on RMarkdown formatting, see [this cheat sheet from the RStudio team](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf){target="_blank"} and [this tutorial from Columbia Psychology Scientific Computing](https://cu-psych-computing.github.io/cu-psych-comp-tutorial/tutorials/r-extra/rmarkdown/intro-to-rmarkdown/){target="_blank"}.)

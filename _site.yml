@@ -1,0 +1,13 @@
+name: "My Basic Website"
+
+navbar:
+  title: "My Basic Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Other Page"
+      href: otherpage.html
+
+output:
+  html_document:
+    theme: paper
